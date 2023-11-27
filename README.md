@@ -1,3 +1,6 @@
+https://cart-q3h896dlu-adarsh-thakurs-projects.vercel.app  (live link to app)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
